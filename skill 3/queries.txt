@@ -1,5 +1,0 @@
-Input Text
-Preprocessing
-Algorithm Selection
-Analysis
-Output Generation
